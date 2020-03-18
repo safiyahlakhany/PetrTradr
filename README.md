@@ -1,7 +1,7 @@
 # PetrTradr
 _Are you looking trade your graduation Petr for a Thanos Petr? Do you have a drop to get to tomorrow but you tend to forget? Want an app to keep track of your Petrs? If so, PetrTradr has got you covered._
 
-Awarded 1st Place Overall Hack at HackUCI 2020
+Awarded 1st Place Overall Hack at HackUCI 2020 🥇
 
 ---
 ## Inspiration
