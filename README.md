@@ -31,3 +31,6 @@ We hope to release PetrTradr on the App Store as well as the Play Store for UCI 
  Devpost: https://devpost.com/software/tradr-u10jg4
  
  Demo: https://www.youtube.com/watch?v=8qXXXDt4des
+ 
+ ---
+ NOTE: When cloning this application, there are a few pieces of information you must fill in in order to build and run properly. In a separate Swift file (i.e. Constants.swift), create 5 constant variables: appID, serverURL, apiKey, apiPassword, and phoneNumber. The appID and serverURL is used to host the app on a server. The apiKey, apiPassword, and phoneNumber is for using the Twilio API to send text messages to the user. After configuring these constants, you can successfully run PetrTradr!
