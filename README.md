@@ -28,6 +28,12 @@ We were all able to experiment with new tools and technologies that we hadn't pr
 We would love to implement more features on PetrTradr such as the ability to host petr drops and notify users internally within the app. We would love to have an admin side of the app, primarily for the Petr's to drop within there, instead of instagram. Taking it one step further, an implementation of a social forum would be amazing. 
 We hope to release PetrTradr on the App Store as well as the Play Store for UCI students to use for years to come. 
 
+## Contributors
+[Safiyah Lakhany](https://github.com/safiyahlakhany)
+[Iqra Abbaali](https://github.com/iabbaali)
+[Saadia Karim](https://github.com/saadiak)
+[Lenah Syed](https://github.com/123lenah)
+
  Devpost: https://devpost.com/software/tradr-u10jg4
  
  Demo: https://www.youtube.com/watch?v=8qXXXDt4des
