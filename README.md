@@ -30,8 +30,11 @@ We hope to release PetrTradr on the App Store as well as the Play Store for UCI 
 
 ## Contributors
 [Safiyah Lakhany](https://github.com/safiyahlakhany)
+
 [Iqra Abbaali](https://github.com/iabbaali)
+
 [Saadia Karim](https://github.com/saadiak)
+
 [Lenah Syed](https://github.com/123lenah)
 
  Devpost: https://devpost.com/software/tradr-u10jg4
